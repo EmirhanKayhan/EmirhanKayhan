@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microsoft Azure, kubernetes, golang**
 
-- 📫 How to reach me **emirhank2001@hotmail.com**
+- 📫 Reach me **emirhank2001@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
