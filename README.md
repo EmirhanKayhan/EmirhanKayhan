@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">Computer Science Student at Kocaeli University</h3>
 
-- 🌱 I’m currently learning **Microsoft Azure, kubernetes, golang**
+- 🌱 I'm a senior student at Kocaeli University majoring in Information Systems Engineering. I am passionate about cloud computing and Kubernetes, where I continuously strive to expand my knowledge and expertise. My interests also include Python, object-oriented programming, and Golang, which I leverage to build innovative solutions and tackle complex problems. Driven by a curiosity for emerging technologies and a commitment to excellence.**
 
-- 📫 Contact me **emirhank2001@hotmail.com**
+- 📫 Contact me **emirhankayhan_@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
